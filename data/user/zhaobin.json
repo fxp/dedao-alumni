@@ -1,0 +1,160 @@
+{
+    "target": {
+        "name": "赵彬"
+    },
+    "friends": [
+        {
+            "name": "王莉",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "你是一个非常奇妙的组合，逗比，深情，会打篮球，勇敢，坚持，有趣，对爱情执着，浪漫，还长的这么帅。想象不出来， 什么样的女生会不喜欢你。"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "总觉得你逗比的后面藏着些别的东西，不知道是什么，也许是安全距离。在足够安全的环境下，可以试着展现出更多真实的你。因为，你，真的，非常可爱！"
+                },
+                {
+                    "type": "bless",
+                    "content": "和李昂的每日相声节目请持续20年！"
+                }
+            ]
+        },
+        {
+            "name": "吴昱颖",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "个子好高啊，绝对的韩式长腿欧巴，纯净的像小孩子一般，在我眼里，他的欠揍感是极致纯净的副产品"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "都挺好的，保持下去"
+                },
+                {
+                    "type": "bless",
+                    "content": "喜欢的女孩子都会先来找他搭讪"
+                }
+            ]
+        },
+        {
+            "name": "王亚龙",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "这哥们不是跟我一个style，这是江南style（韩国某歌），我是塞外style（蛮夷之地）。"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "Yes：随性、聪明、逗、人生就是一场体验、细腻、来来来喝喝喝No：跟我说No？老子不跟你玩了，比你好玩的多的是"
+                },
+                {
+                    "type": "bless",
+                    "content": "事业有成，我是指相声事业哈；正儿八经的事业不用我祝福，因为肯定是成的"
+                }
+            ]
+        },
+        {
+            "name": "李昂",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "相似性太多，NBA，高个子，口头逗比，文字深情，思考商业本质，追求成功。异父异母的兄弟。"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "半熟社会混得开的人经常在亲密关系里看不清自己，以后看新闻的时候如果愿意，可以多看正向的榜样，不要在内心diss他们，推荐看看张晋蔡少芬、张智霖袁咏仪的综艺节目，放开去“受”吧。邪恶的笑。"
+                },
+                {
+                    "type": "bless",
+                    "content": " 祝钞票多多，爱情如啤酒般清爽，丘比特把篮球尽快投到你的缪斯的心里。"
+                }
+            ]
+        },
+        {
+            "name": "刘安邦",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "一个充满让别人开心的能力球，关键还能自我娱乐自我满足，自愧不足"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "不知道是你太忙了还是怎么样，你的专业只有我们组知道，下一次会不会来一次总结分享？"
+                },
+                {
+                    "type": "bless",
+                    "content": "创业成功，哈哈，就是觉得你会创业或者是自媒体大牛"
+                }
+            ]
+        },
+        {
+            "name": "卢嘉杰",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "在高大帅气外表下有一颗逗比的心。 "
+                },
+                {
+                    "type": "yes_and",
+                    "content": "把妹攻略，搭讪策略需加强"
+                },
+                {
+                    "type": "bless",
+                    "content": "我祝福你在个人和事业上取得双丰收，青春无悔，我们不散"
+                }
+            ]
+        },
+        {
+            "name": "王澜",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "逗逼 + 才子 ，居然还是90后，真没看出来"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "太自恋 哈哈哈哈"
+                },
+                {
+                    "type": "bless",
+                    "content": "创业成功，佳人相伴"
+                }
+            ]
+        },
+        {
+            "name": "申亮",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "组里最帅的钻石王老五"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "推荐冯唐的《成事》"
+                },
+                {
+                    "type": "bless",
+                    "content": "事业有成"
+                }
+            ]
+        },
+        {
+            "name": "冯小平",
+            "comments": [
+                {
+                    "type": "impression",
+                    "content": "最强力的hitter。一种有信息量的有趣，爱抖机灵，耍帅，咋不去参加奇葩说呢。"
+                },
+                {
+                    "type": "yes_and",
+                    "content": "别光顾着逗哏，多给大家作些得到分享啊！"
+                },
+                {
+                    "type": "bless",
+                    "content": "祝工作成功，有突破。也希望有机会一起搞新事情。"
+                }
+            ]
+        }
+    ]
+}

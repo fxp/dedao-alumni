@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+
+<head>
+	<title>得到大学三期二班五组</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="assets/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	<script src="assets/js/vue.js"></script>
+</head>
+
+<body class="is-preload">
+	<!-- Page Wrapper -->
+	<div id="page-wrapper">
+
+		<!-- Wrapper -->
+		<div id="wrapper">
+
+			<section class="panel color4">
+				<div class="intro joined">
+					<h2 class="major">{{target.name}}。我的新伙伴，老朋友。</h2>
+					<p>春水初生，春林初盛，春风十里，不如你。</p>
+					<p>所以，</p>
+					<p>我们想对你说。</p>
+				</div>
+				<div class="inner">
+						<img  style="text-align: center" src="./images/dedaodaxue.png" />
+				</div>
+			</section>
+			<!-- Panel (Banner) -->
+			<section v-for="(friend, index) in friends" class="panel banner" v-bind:class="colorClass(index)">
+					<div class="intro image filtered span-1-75" data-position="25% 25%">
+							<img v-bind:src="getAvatar(friend.name)" alt="">
+							<h2 class="major">{{friend.name}} 对你说</h2>
+						</div>
+				<!-- <div class="intro"> -->
+					<!-- <h2 class="major">{{friend.name}} 对你说</h2> -->
+				<!-- </div> -->
+				<div class="inner columns">
+					<div class="content span-2" v-for="comment in friend.comments">
+						<h2 class="major">{{typeName(comment.type)}}</h2>
+						<p>{{comment.content}}</p>
+					</div>
+				</div>
+			</section>
+
+			<!-- Copyright -->
+			<div class="copyright">&copy; 得到大学三期二班五组</div>
+
+		</div>
+
+	</div>
+
+	<script src="./app.js"></script>
+
+	<!-- Scripts -->
+	<script src="assets/js/jquery.min.js"></script>
+	<script src="assets/js/browser.min.js"></script>
+	<script src="assets/js/breakpoints.min.js"></script>
+	<script src="assets/js/main.js"></script>
+
+</body>
+
+</html>
